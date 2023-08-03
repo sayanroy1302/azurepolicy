@@ -109,7 +109,8 @@
          },
          "allowedValues":[
             "DeployIfNotExists",
-            "Disabled"
+            "Disabled",
+            "Deny"
          ],
          "defaultValue":"DeployIfNotExists"
       }
